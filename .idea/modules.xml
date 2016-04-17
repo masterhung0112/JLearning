@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JLearning.iml" filepath="$PROJECT_DIR$/JLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-debug/api-debug.iml" filepath="$PROJECT_DIR$/api-debug/api-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libvlc-3.0.0-1.9.7/libvlc-3.0.0-1.9.7.iml" filepath="$PROJECT_DIR$/libvlc-3.0.0-1.9.7/libvlc-3.0.0-1.9.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libvlc-3.0.0-1.9.7_x86/libvlc-3.0.0-1.9.7_x86.iml" filepath="$PROJECT_DIR$/libvlc-3.0.0-1.9.7_x86/libvlc-3.0.0-1.9.7_x86.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="background_actionbar" format="reference|color" />
+    <attr name="navigationview_item_color" format="reference|color" />
+
+    <attr name="toolbar_popup_style" format="reference" />
+    <declare-styleable name="SlidingPaneLayout">
+        <attr name="overhangSize" format="dimension" />
+    </declare-styleable>
+</resources>

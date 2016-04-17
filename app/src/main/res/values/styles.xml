@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="Theme.JLearning" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="toolbar_popup_style">@style/ThemeOverlay.AppCompat.Light</item>
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="background_actionbar">@color/orange500</item>
+
+        <item name="navigationview_item_color">@color/navigationview_color_dark</item>
+    </style>
+
+    <style name="Theme_JLearning_Black" parent="Theme.JLearning">
+
+    </style>
+
+    <style name="Toolbar.JLearning" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+</resources>
