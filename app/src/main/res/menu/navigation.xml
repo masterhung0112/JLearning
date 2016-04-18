@@ -4,5 +4,10 @@
         android:checkableBehavior="single"
         android:orderInCategory="1">
 
+        <item
+            android:id="@+id/nav_listening"
+            android:title="@string/listening"
+            android:icon="@drawable/ic_menu_audio" />
+
     </group>
 </menu>

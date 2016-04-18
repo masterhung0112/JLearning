@@ -3,10 +3,13 @@ package com.free.jlearning;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
+import android.support.v7.app.AppCompatActivity;
 
 import com.free.jlearning.gui.MainActivity;
 
-public class StartActivity extends Activity {
+public class StartActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,4 +24,6 @@ public class StartActivity extends Activity {
         }*/
         finish();
     }
+
+   
 }

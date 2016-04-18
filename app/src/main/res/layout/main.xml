@@ -37,7 +37,7 @@
 
                    <ProgressBar
                        android:id="@+id/info_progress"
-                       android:style="?android:attr/progressBarStyleHorizontal"
+                       style="?android:attr/progressBarStyleHorizontal"
                        android:layout_width="match_parent"
                        android:layout_height="match_parent"
                        android:progressDrawable="@drawable/progress"/>
@@ -62,6 +62,12 @@
                        android:visibility="gone" />
 
                </RelativeLayout>
+
+               <Button
+                   android:id="@+id/Slide"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Slide"/>
            </com.free.jlearning.gui.view.ContentLinearLayout>
 
            <FrameLayout

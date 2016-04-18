@@ -62,7 +62,7 @@ public class SlidingPaneLayout extends ViewGroup {
      * This indicates that there is more content available and provides
      * a "physical" edge to grab to pull it closed.
      */
-    private static final int DEFAULT_OVERHANG_SIZE = 64; // dp;
+    private static final int DEFAULT_OVERHANG_SIZE = 0; // dp;
 
     /**
      * Minimum velocity that will be detected as a fling
